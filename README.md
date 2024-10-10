@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📫 How to reach me
 
 - 📧 [Email me](mailto:iletisim@bahadirdogru.com)
+- 🦊 [GitLab](https://gitlab.com/bahadirdogru)
 
 ---
 
