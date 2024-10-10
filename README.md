@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ---
 
-## 📈 GitHub Stats
-
-![Bahadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahadirdogru&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to reach me
 
 - 📧 [Email me](mailto:iletisim@bahadirdogru.com)
