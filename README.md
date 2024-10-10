@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Bahadır 👋
 
-<!--
-**bahadirdogru/bahadirdogru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and love working on innovative and challenging projects. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🛠️ I have experience with a variety of tools and languages including **Python**, **JavaScript**, **C#**, and **PHP**.
+- 💬 Ask me about anything tech-related, I'm happy to help!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?logo=electron&logoColor=white&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+![Bahadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahadirdogru&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+
+- 📧 [Email me](mailto:iletisim@bahadirdogru.com)
+
+---
+
+⭐ If you find my projects interesting, feel free to star the repos or reach out!
