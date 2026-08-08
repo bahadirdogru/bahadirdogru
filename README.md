@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bahad%C4%B1r+Do%C4%9Fru;Python+%26+Svelte+Developer;Desktop+%26+Jamstack+Builder;Open+Source+Contributor;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Bahad%C4%B1r+Do%C4%9Fru;Software+Developer;Open+Source+Contributor;Istanbul+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
 
 **public repos · desktop apps, Jamstack sites, and JavaScript libraries**
 
@@ -109,6 +109,12 @@ I focus on building a variety of open source projects, including desktop applica
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahadirdogru&theme=tokyo-night&hide_border=true&area_color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
+
+---
+
+## 🏢 Organizations
+
+[![edamla](https://img.shields.io/badge/edamla-E--Damla_Open_Source-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edamla)
 
 ---
 
