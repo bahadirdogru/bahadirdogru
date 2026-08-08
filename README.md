@@ -94,24 +94,6 @@ I focus on building a variety of open source projects, including desktop applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bahadirdogru&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,contribs&hide_rank=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahadirdogru&theme=tokyo-night&hide_border=true&area_color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏢 Organizations
-
-[![edamla](https://img.shields.io/badge/edamla-E--Damla_Open_Source-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edamla)
-
----
-
 <div align="center">
 
 ⭐ If you find my projects interesting, feel free to star the repos or reach out — contributions and feedback are always welcome!
