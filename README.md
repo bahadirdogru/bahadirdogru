@@ -89,7 +89,6 @@ I focus on building a variety of open source projects, including desktop applica
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**chromium-autoupdate-windows**](https://github.com/bahadirdogru/chromium-autoupdate-windows) | Install Chromium and keep it updated on Windows 10/11 | `PowerShell` |
 | [**Torelium**](https://github.com/bahadirdogru/Torelium) | Tor + Helium privacy browser pack | `JavaScript` |
 
 ---
